@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="begining" src="https://github.com/user-attachments/assets/15590789-e93b-491c-b654-cffa3bebe2de" /><img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
 
 
@@ -67,12 +67,13 @@ npm run dev
 npm run build
 # Preview production build locally
 npm run preview
-
+```
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d52c9fa3-5977-4128-9461-c0346263cf5d" />
+<img width="1920" height="1080" alt="begining" src="https://github.com/user-attachments/assets/154a422f-606f-4042-b421-e07bae8f3edb" />
+
 
 ![Screenshot2]
 <img width="1920" height="1080" alt="what is really happening" src="https://github.com/user-attachments/assets/9e948d8d-5e47-4975-bc0d-ba4ac8f31617" />
