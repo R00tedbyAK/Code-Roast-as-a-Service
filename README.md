@@ -51,7 +51,7 @@ For Software:
 # Installation
 ```bash
 # Clone the repository
-git clone https://github.com/R00tedbyAK/backspace.git
+git clone https://github.com/R00tedbyAK/Code-Roast-as-a-Service
 
 # Navigate into the project directory
 cd backspace
